@@ -1,6 +1,8 @@
-- 👋 Hi! I'm Do Hun (도훈)
+## 👋 Hi!
+
+- 🔊 name : Do Hun
 - 📫 email : tbvjdkrak2@naver.com
-- 🌱 I’m currently learning **Python**
+
 <!--
 **DHKim95/DHKim95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
