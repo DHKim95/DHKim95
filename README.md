@@ -3,6 +3,7 @@
 - 🔊 name : Do Hun
 - 📫 email : tbvjdkrak2@naver.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHKim95)](https://github.com/DHKim95/github-readme-stats)
 <!--
 **DHKim95/DHKim95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
