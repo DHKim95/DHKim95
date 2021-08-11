@@ -3,9 +3,12 @@
 - 🔊 name : Do Hun
 - 📫 email : tbvjdkrak2@naver.com
 
+## 👍Github Status
+[![DHKim95's github stats](https://github-readme-stats.vercel.app/api?username=DHKim95&hide_border=false&count_private=true&show_icons=false&hide=contribs,prs&theme=vue&line_height=30)](https://github-readme-stats.vercel.app/api?username=DHKim95&hide_border=false&count_private=true&show_icons=false&hide=contribs,prs&theme=vue&line_height=30)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHKim95&layout=compact&hide_border=false&theme=vue&line_height=30)](https://github-readme-stats.vercel.app/api/top-langs/?username=DHKim95&layout=compact&hide_border=false&theme=vue&line_height=30)  
 
-![DHKim95's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHKim95&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHKim95&layout=compact)
+<!-- ![DHKim95's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHKim95&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DHKim95&layout=compact) -->
 
 <!--
 **DHKim95/DHKim95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
