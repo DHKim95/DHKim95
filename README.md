@@ -2,6 +2,9 @@
 
 - 🔊 name : Do Hun
 - 📫 email : tbvjdkrak2@naver.com
+- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=RED"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=HTML5&logoColor=BLUE"/>
 
 ## 👍Github Status
 [![DHKim95's github stats](https://github-readme-stats.vercel.app/api?username=DHKim95&hide_border=false&count_private=true&show_icons=false&hide=contribs,prs&theme=vue&line_height=30)](https://github-readme-stats.vercel.app/api?username=DHKim95&hide_border=false&count_private=true&show_icons=false&hide=contribs,prs&theme=vue&line_height=30)
