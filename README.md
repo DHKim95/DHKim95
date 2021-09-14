@@ -5,6 +5,9 @@
 - <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 ## 📃Languages Tool
+![python_vertical_logo_icon_168039 (1)](https://user-images.githubusercontent.com/68861542/133299812-74d2c3c5-c0aa-4a83-a6f9-08b150239a0d.png)
+![ai_artificial_intelligence_chip_technology_cpu_icon_179503](https://user-images.githubusercontent.com/68861542/133300907-471e278c-a1c1-436b-b2ff-55ed42124260.png)
+![django_plain_logo_icon_146558](https://user-images.githubusercontent.com/68861542/133300970-07e7b3d1-c21b-4ff3-b3ae-4957c224fd7f.png)
 
 
 ## 👍Github Status
