@@ -1,29 +1,18 @@
-## 👋 Hi!
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Dohun's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-- 🔊 name : Do Hun
-- 📫 email : tbvjdkrak2@naver.com
-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+## 💻 Tech Stacks 💻
 
-## 📃Languages Tool
-![python_vertical_logo_icon_168039 (1)](https://user-images.githubusercontent.com/68861542/133299812-74d2c3c5-c0aa-4a83-a6f9-08b150239a0d.png)
-![ai_artificial_intelligence_chip_technology_cpu_icon_179503](https://user-images.githubusercontent.com/68861542/133300907-471e278c-a1c1-436b-b2ff-55ed42124260.png)
-![django_plain_logo_icon_146558](https://user-images.githubusercontent.com/68861542/133300970-07e7b3d1-c21b-4ff3-b3ae-4957c224fd7f.png)
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Pytorch" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white"/> <img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white"/><br/><img alt="Html" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-FF9933.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>  <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/><img alt="Vue.js" src ="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/><img alt="Bootstrap" src ="https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white"/> <br/>  <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>  <img alt="Jira Software" src ="https://img.shields.io/badge/Jira Software-0052CC.svg?&style=for-the-badge&logo=Jira Software&logoColor=white"/> 
+<br/>
 
 
-## 👍Github Status
-[![DHKim95's github stats](https://github-readme-stats.vercel.app/api?username=DHKim95&hide_border=false&count_private=true&show_icons=false&hide=contribs,prs&theme=vue&line_height=30)](https://github-readme-stats.vercel.app/api?username=DHKim95&hide_border=false&count_private=true&show_icons=false&hide=contribs,prs&theme=vue&line_height=30)
 
-<!--
-**DHKim95/DHKim95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 My Page  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href = "https://github.com/DHKim95"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+</a> <a href = "https://DHKim95.github.io/"> <img alt="GitHub Pages" src ="https://img.shields.io/badge/GitHub Pages-222222?&style=for-the-badge&logo=GitHub Pages"/></a> <a href = "https://www.notion.so/4c8dc18952c44c2b937bdf8c71ee8979"><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a> <img alt="Gmail" src 
+="https://img.shields.io/badge/tbvjdkrak2@gmail.com-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/>
+
+![DHKim95's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHKim95&show_icons=true&theme=radical)
