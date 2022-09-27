@@ -22,7 +22,7 @@
 
 <p align="center" display="inline-block">
     <a href = "https://github.com/DHKim95"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-</a> <a href = "https://DHKim95.github.io/"><img alt="GitHub Pages" src ="https://img.shields.io/badge/GitHub Pages-222222?&style=for-the-badge&logo=GitHub Pages"/></a> <a href = "https://www.notion.so/4c8dc18952c44c2b937bdf8c71ee8979"><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
+</a> <a href = "https://DHKim95.github.io/"><img alt="GitHub Pages" src ="https://img.shields.io/badge/GitHub Pages-222222?&style=for-the-badge&logo=GitHub Pages"/></a> <a href = ""><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
 </p>
 <p align="center" display="inline-block"><a href="mailto:tbvjdkrak2@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a></p>
 
