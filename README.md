@@ -26,7 +26,7 @@
 </p>
 <p align="center" display="inline-block"><a href="mailto:tbvjdkrak2@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a></p>
 
-![DHKim95's GitHub stats](https://github-readme-stats.vercel.app/api?username=DHKim95&show_icons=true&theme=radical)
+
 
 
 
